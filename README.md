@@ -2,11 +2,14 @@
 
 I'm a second-year Computer Engineering student passionate about technology and eager to learn and contribute to exciting projects.
 
+
 ## 🛠️ Skills
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web Development
@@ -22,9 +25,7 @@ I'm a second-year Computer Engineering student passionate about technology and e
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -32,15 +33,13 @@ I'm a second-year Computer Engineering student passionate about technology and e
 
 ## 🏫 Education
 
-- **University:** Recep Tayyip Erdooğan University
-- **Program:** Bachelor of Science in Computer Engineering
-- **Year:** Second Year (Expected Graduation: 2027)
+- **University:** Recep Tayyip Erdoğan University  
+- **Program:** Bachelor of Science in Computer Engineering  
+- **Year:** Second Year (Expected Graduation: 2027)  
 
 ## 📫 Contact Me
 
-- Email: [yasin.enis.tr@gmail.com](mailto:hikmethan.kolay@gmail.com)
-- LinkedIn: [Yasin Eniş](https://www.linkedin.com/in/yasin-eniş/)
-
+- Email: [yasin.enis.tr@gmail.com](mailto:yasin.enis.tr@gmail.com)  
+- LinkedIn: [Yasin Eniş](https://www.linkedin.com/in/yasin-eniş/)  
 
 🎉 **Profilimi ziyaret ettiğiniz için teşekkür ederim! Yeni projelerle tekrar görüşmek üzere!**
-
