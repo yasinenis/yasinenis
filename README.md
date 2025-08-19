@@ -1,6 +1,6 @@
 # Hi there, I'm Yasin Eniş 👋
 
-I'm a second-year Computer Engineering student passionate about technology and eager to learn and contribute to exciting projects.
+I'm a third-year Computer Engineering student passionate about technology and eager to learn and contribute to exciting projects.
 
 
 ## 🛠️ Skills
